@@ -6,7 +6,7 @@ O intuito desta tarefa é testar os conhecimentos sobre os componentes da placa,
 2. Apertar o Botão B, fará com que o LED Azul mude de estado. Um aviso aparecerá no Display avisando, uma mensagem também aparecerá no Serial Monitor.
 
 3. Se algum caractere for digitado no Serial Monitor, este será visualizado no Display.
-3.1. Apenas um caractere aparecerá por vez.
+    1. Apenas um caractere aparecerá por vez.
 
 3.2. Existe distinção entre os caracteres maiusculos e minusculos (Case Sensitive).
 
